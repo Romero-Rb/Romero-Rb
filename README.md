@@ -8,6 +8,7 @@ Hey, I am currently learning about the field of data science and web development
 Feel free to contact or share some advice with me  
 
 [View LinkedIn](linkedin.com/in/romero-robb-)  
+  
 My Email: robbCoop20011@gmail.com
 
 ### Skills  
