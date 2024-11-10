@@ -19,10 +19,10 @@ Here is a list of some technical skills I have aquired or am working towards
 ### Projects
 Here are just some images of my projects and some simple graphics
 
-Visa Stocks Analysis
+Visa Stocks Analysis  [Visa Stocks Analysis](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/Visa%20Stocks%20Multiple%20Linear%20Reg)
 ![image](https://github.com/user-attachments/assets/152bc9d3-47a8-4e63-8203-f70fbe28a02e)
 
-Analysis of Housing Prices in King County (2014-2015)
+Analysis of Housing Prices in King County (2014-2015)  [House Pricing Analysis](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/House%20Price%20Linear%20Reg) 
 ![image](https://github.com/user-attachments/assets/1b2d66a1-f195-4f10-afa2-204c0a2ec97e)
 
 <!--
