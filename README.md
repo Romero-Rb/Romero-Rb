@@ -4,7 +4,11 @@
 
 ### About me  
 Hey, I am currently learning about the field of data science and web development. As of now I am working on projects that focus on utilizing software for data analysis to answer questions and learn more about different topics within the data science and data analytics field.  
+  
 Feel free to contact or share some advice with me  
+
+[LinkedIn](linkedin.com/in/romero-robb-)
+
 
 ### Skills  
 Here is a list of some technical skills I have aquired or am working towards  
