@@ -8,7 +8,7 @@ Hey, I am currently learning about the field of data science and web development
 
 
 ### Skills
-Here is a list of some technical skills I have aquired or am working towards
+Here is a list of some technical skills I have aquired or am working towards  
   ✅ SQL  
   ✅ Python (Pandas, Numpy, Sklearn)  
   ✅ PowerBI  
