@@ -9,12 +9,12 @@ Hey, I am currently learning about the field of data science and web development
 
 ### Skills
 Here is a list of some technical skills I have aquired or am working towards
-  ✅ SQL
-  ✅ Python (Pandas, Numpy, Sklearn)
-  ✅ PowerBI
-  ✅ Microsoft Excel
-  ➖ HTML/CSS (Currently Learning)
-  ➖ JavaScript (Currently Learning)
+  ✅ SQL  
+  ✅ Python (Pandas, Numpy, Sklearn)  
+  ✅ PowerBI  
+  ✅ Microsoft Excel  
+  ➖ HTML/CSS (Currently Learning)  
+  ➖ JavaScript (Currently Learning)  
   
 ### Projects
 Here are just some images of my projects and some simple graphics
