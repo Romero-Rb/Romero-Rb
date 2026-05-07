@@ -18,6 +18,7 @@ Here is a list of some technical skills I have aquired or am working towards
   ✅ PowerBI  
   ✅ Microsoft Excel  
   ➖ Machine Learning Algorithms (Currently Learning)
+    ➖ Probability Metrics (Currently Learning)
   ➖ Probability Metrics (Currently Learning)
   ➖ JavaScript (Currently Learning)  
   
