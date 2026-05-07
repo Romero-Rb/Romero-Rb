@@ -24,7 +24,8 @@ Here is a list of some technical skills I have aquired or am working towards
 ### Projects  
 Here are just some images of my projects and some simple graphics  
 
-Jupyter Data Analysis Projects [Jupyter Projects](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/Visa%20Stocks%20Multiple%20Linear%20Reg) ![image](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/b629df96fa6ae8b68237377b302ff3546e434430/Bike_Share_Analysis_Toronto_2026/Toronto%20Bike%20Analysis%20Sample%20Image.jpg)
+Jupyter Data Analysis Projects [Jupyter Projects]([https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/Visa%20Stocks%20Multiple%20Linear%20Reg](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/tree/main))
+Here is a Sample Image![image](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/b629df96fa6ae8b68237377b302ff3546e434430/Bike_Share_Analysis_Toronto_2026/Toronto%20Bike%20Analysis%20Sample%20Image.jpg)
 
 
 ### Current Goals/Projects
