@@ -27,7 +27,7 @@ Jupyter Data Analysis Projects [Jupyter Projects](https://github.com/Romero-Rb/P
 
 
 Analysis of Housing Prices in King County Linear Regression Analysis (2014-2015)  [House Pricing Analysis](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/House%20Price%20Linear%20Reg) 
-![image]([Bike_Share_Analysis_Toronto_2026/Toronto Bike Analysis Sample Image.jpg])
+![image](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/b629df96fa6ae8b68237377b302ff3546e434430/Bike_Share_Analysis_Toronto_2026/Toronto%20Bike%20Analysis%20Sample%20Image.jpg)
 
 ### Current Goals/Projects
 Currently I am working on a project which will utilize multiple skills to analyze and visualize data. This project will utilize python, SQL and PowerBI to present my findings. 
