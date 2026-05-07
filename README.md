@@ -17,20 +17,19 @@ Here is a list of some technical skills I have aquired or am working towards
   ✅ Python (Pandas, Numpy, Sklearn)  
   ✅ PowerBI  
   ✅ Microsoft Excel  
-  ➖ HTML/CSS (Currently Learning)  
+  ➖ Machine Learning Algorithms (Currently Learning)
+  ➖ Probability Metrics (Currently Learning)
   ➖ JavaScript (Currently Learning)  
   
 ### Projects  
 Here are just some images of my projects and some simple graphics  
 
-Jupyter Data Analysis Projects [Jupyter Projects](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/Visa%20Stocks%20Multiple%20Linear%20Reg) ![image]()
+Jupyter Data Analysis Projects [Jupyter Projects](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/Visa%20Stocks%20Multiple%20Linear%20Reg) ![image](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/b629df96fa6ae8b68237377b302ff3546e434430/Bike_Share_Analysis_Toronto_2026/Toronto%20Bike%20Analysis%20Sample%20Image.jpg)
 
-
-Analysis of Housing Prices in King County Linear Regression Analysis (2014-2015)  [House Pricing Analysis](https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/House%20Price%20Linear%20Reg) 
-![image](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/b629df96fa6ae8b68237377b302ff3546e434430/Bike_Share_Analysis_Toronto_2026/Toronto%20Bike%20Analysis%20Sample%20Image.jpg)
 
 ### Current Goals/Projects
-Currently I am working on a project which will utilize multiple skills to analyze and visualize data. This project will utilize python, SQL and PowerBI to present my findings. 
+Currently I am working on a project which will utilize multiple skills to analyze and visualize data. This project will utilize python, SQL and PowerBI to present my findings.
+
 
 <!--
 **Romero-Rb/Romero-Rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
